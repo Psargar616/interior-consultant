@@ -38,7 +38,7 @@
 
 ![screenshot](screenshots/solution-screenshot.png)
 
-I had lot of fun creating this visually asthetic and responsive webpage for an Interior Consultant website using HTML, CSS and JS. Also lernt how to add hamburger menu to webpage.
+I had lot of fun creating this visually aesthetic and responsive webpage for an Interior Consultant website using HTML, CSS and JS. Also learnt how to add hamburger menu to webpage.
 
 
 ### Built With

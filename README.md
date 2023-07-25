@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://psargar616.github.io/interior-consultant/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Psargar616/interior-consultant">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](./screenshots/solution-screenshot.png)
+![screenshot](screenshots/solution-screenshot.png)
 
 I had lot of fun creating this visually asthetic and responsive webpage for an Interior Consultant website using HTML, CSS and JS. Also lernt how to add hamburger menu to webpage.
 
@@ -55,5 +55,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@Psargar616](https://{github.com/Psargar616})
+- GitHub [@Psargar616](https://github.com/Psargar616)
 
